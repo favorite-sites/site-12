@@ -1,7 +1,7 @@
 # site-12
 funny sites
 
-// 3D Viwer
+// 3D Viewer
 
 https://landenlabs.com/cs_m3dviewer/m3dviewer.html
 
